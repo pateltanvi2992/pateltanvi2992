@@ -19,12 +19,12 @@ I am a Postdoctoral Fellow at NIH/NCATS (IFX Core) with expertise in AI, multi-o
 - LinkedIn: [linkedin.com/TanviPatel](https://www.linkedin.com/in/tanvi-patel-d-sc-31523913a/)
 
 ## GitHub Repository Languages
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pateltanvi2992&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pateltanvi2992&theme=github)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pateltanvi2992&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pateltanvi2992&theme=github)
 
 ![GitHub Matrix](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
