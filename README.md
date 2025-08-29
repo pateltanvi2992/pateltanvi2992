@@ -1,5 +1,5 @@
 ## Hi there, I’m Tanvi 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hi+there%2C+I%E2%80%99m+Tanvi+%F0%9F%91%8B&center=true&vCenter=true&width=520&height=70&size=40&pause=1200&duration=2500)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Welcome+to+my+GitHub+Profile&center=true&vCenter=true&width=560&height=70&size=38&pause=1200&duration=2500)
 
 I am a Postdoctoral Fellow at NIH/NCATS (IFX Core) with expertise in AI, multi-omics, and metabolomics, and additional experience in medical imaging, facial genetics, and digital pathology using generative AI.
 
