@@ -9,9 +9,10 @@ I am a Postdoctoral Fellow at NIH/NCATS (IFX Core) with expertise in AI, multi-o
   - Generative AI in Biomedicine: Synthetic data generation, expression-invariant models, data augmentation
 
 **Featured Projects:**
-- [ValidPath Toolbox](https://github.com/your-repo)
-- [Metabolomics ML Pipeline](https://github.com/your-repo)  
+- [AI-in-Clinical-Genetics]([https://github.com/your-repo](https://github.com/pateltanvi2992/Analyzing-Facial-Expressions-with-Generative-AI-in-Clinical-Genetics))
+- [EfficientSwin]([https://github.com/your-repo](https://github.com/pateltanvi2992/EfficientSwin-A-Hybrid-Model-for-Blood-Cell-Classification-with-saliency-maps-visualization))
+- [StyleSwin-ADA](https://github.com/pateltanvi2992/Training-swin-transformer-based-GAN-for-high-resolution-blood-cell-imaging-with-limited-data)
 
 **Contact:**
 - Email: tanviben.patel@nih.gov
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- LinkedIn: [linkedin.com/in/TanviPatel](https://www.linkedin.com/in/tanvi-patel-d-sc-31523913a/)
