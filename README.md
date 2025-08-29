@@ -21,8 +21,9 @@ I am a Postdoctoral Fellow at NIH/NCATS (IFX Core) with expertise in AI, multi-o
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pateltanvi2992&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pateltanvi2992&theme=github)
 
-![Tanvi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pateltanvi2992&theme=github)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-![Tanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pateltanvi2992&show_icons=true&theme=radical)
 ![GitHub Matrix](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
