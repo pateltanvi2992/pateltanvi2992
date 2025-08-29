@@ -16,4 +16,4 @@ I am a Postdoctoral Fellow at NIH/NCATS (IFX Core) with expertise in AI, multi-o
 
 **Contact:**
 - Email: tanviben.patel@nih.gov
-- LinkedIn: [linkedin.com/in/TanviPatel](https://www.linkedin.com/in/tanvi-patel-d-sc-31523913a/)
+- LinkedIn: [linkedin.com/TanviPatel](https://www.linkedin.com/in/tanvi-patel-d-sc-31523913a/)
